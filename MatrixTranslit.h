@@ -1,9 +1,9 @@
-/******************************************
-* Klass Matric, sozdannyj cherez vektory   *
-*										  *
+/*********************************************
+* Klass Matric, sozdannyj cherez vektory     *
+*                                            *
 *-Nedodelana funkuija reshenija SLU po Gausu *
-*-Net razbienija na fajl .h i .cpp		  *
-******************************************/
+*-Net razbienija na fajl .h i .cpp           *
+*********************************************/
 
 #ifndef MATRIX_H
 #define MATRIX_H
